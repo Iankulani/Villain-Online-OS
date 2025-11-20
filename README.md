@@ -10,10 +10,18 @@ With its sleek performance and modular structure, Villain-Online-OS provides fas
 Whether for testing, analysis, or automation, Villain-Online-OS delivers reliability with a minimal footprint — the perfect blend of intelligence and power for next-generation cyber tools.
 
 
-**How to clone the repo**
+## How to clone the repo
+
+```bash
 
 git clone https://github.com/Iankulani/Villain-Online-OS.git
 
-**How to run**
+cd Villain-Online-OS
 
+```
+
+## How to run
+
+```bash
 python3 Villain-Online-OS.py 
+```
